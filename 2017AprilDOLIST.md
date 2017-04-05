@@ -9,3 +9,6 @@
 
 ## summarize： I have a not a  good notification！  because  i finish  this things  more than  expected！  
 ## happythings  is   i finished  in 4.2 16:00:00！  i most  tell  me  “finish  it on  time  ok ？” procrastination is  a not experience！
+
+#4.4
+## read Swift programmer from block to ---------
